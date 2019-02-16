@@ -1,5 +1,12 @@
+# Coda Digital Eye
+Detect the forklifts and persons in the warehouse and give the warnings when the violations of the rules are detected.
+[Download trained model](https://drive.google.com/open?id=1V9bSbqPMimM9cHK8euQqn6nQRzKwzSfi)
+
+
+[The real-time forklift detection](https://github.com/wangyidong3/Coda_object_detection/blob/master/out/forklift%20detection.gif)
+
 # Object Detection
-This is exercise for object detection with ```ssd_mobilenet``` and ```tiny-yolo(coco)```
+The object detection for forklifts and person is based on ```ssd_mobilenet``` and ```tiny-yolo(coco)```
 
 Add: ```YOLOV3```
 
@@ -40,4 +47,4 @@ $ python3 test_yolov3.py
 ## Acknowledgments
 
 * Thanks to [keras-yolo3](https://github.com/qqwweee/keras-yolo3) for yolov3-keras part# Coda_object_detection
-# Coda_object_detection
+
