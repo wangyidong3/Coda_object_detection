@@ -4,7 +4,7 @@ Detect the forklifts and persons in the warehouse and give the warnings when the
 
 ![alt text](https://github.com/wangyidong3/Coda_object_detection/blob/master/out/forklift%20detection.gif)
 
-# Object Detection
+
 The object detection for forklifts and person is based on ```ssd_mobilenet``` and ```tiny-yolo(coco)```
 
 Add: ```YOLOV3```
