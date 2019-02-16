@@ -2,8 +2,7 @@
 Detect the forklifts and persons in the warehouse and give the warnings when the violations of the rules are detected.
 [Download trained model](https://drive.google.com/open?id=1V9bSbqPMimM9cHK8euQqn6nQRzKwzSfi)
 
-
-[The real-time forklift detection](https://github.com/wangyidong3/Coda_object_detection/blob/master/out/forklift%20detection.gif)
+![alt text](https://github.com/wangyidong3/Coda_object_detection/blob/master/out/forklift%20detection.gif)
 
 # Object Detection
 The object detection for forklifts and person is based on ```ssd_mobilenet``` and ```tiny-yolo(coco)```
